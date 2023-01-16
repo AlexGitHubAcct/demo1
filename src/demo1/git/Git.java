@@ -13,5 +13,7 @@ public class Git
 		//hello this is a comment that was edited 
 		
 		System.out.println("after");
+		
+		//stash comment
 	}
 }
