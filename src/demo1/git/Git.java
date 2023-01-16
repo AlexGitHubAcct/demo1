@@ -15,5 +15,9 @@ public class Git
 		System.out.println("after");
 		
 		//stash comment
+		
+		//stash comment TWICE
+		
+		//comment 4
 	}
 }
