@@ -17,5 +17,7 @@ public class Git
 		//stash comment
 		
 		//stash comment TWICE
+		
+		//comment 4
 	}
 }
